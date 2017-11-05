@@ -5,6 +5,7 @@
 ### Summary: 
 > In this project, I have included visualizations to explore various flight delays over last five years. I created a story for delays elated to airline, weather, diverted flights, security and operational delays to draw some conclusions related to airports and airlines that have correlations to delayed or cancelled flights. Atlanta and Chicago Ohare airport and Delta, express jet airlines stood out.
 The first version of the story is https://public.tableau.com/profile/nonu#!/vizhome/flights_initial/Story1?publish=yes
+Final version of the story is https://public.tableau.com/profile/nonu#!/vizhome/flights_final/Story1?publish=yes
 
 ### Design: 
 > I included 4 dashboards consisting of bar and line charts in the story. The first card has line charts to show delays and time relationship. The second card in the story shows bar charts connecting Origin airports, delay and time line. The third card explores the airline, and origin and destination airports relation and the fourth card shows a heat map of delays by origin and destination. All the charts on a card are interactive and filters in one affects the other.
@@ -15,3 +16,4 @@ The first version of the story is https://public.tableau.com/profile/nonu#!/vizh
 ### Resources: 
 > https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time
 > https://www.tableau.com/learn
+> http://fortune.com/2015/04/15/delays-at-americas-busiest-airports/
