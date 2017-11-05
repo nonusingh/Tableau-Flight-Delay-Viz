@@ -9,9 +9,13 @@ Final version of the story is https://public.tableau.com/profile/nonu#!/vizhome/
 
 ### Design: 
 > I included 4 dashboards consisting of bar and line charts in the story. The first card has line charts to show delays and time relationship. The second card in the story shows bar charts connecting Origin airports, delay and time line. The third card explores the airline, and origin and destination airports relation and the fourth card shows a heat map of delays by origin and destination. All the charts on a card are interactive and filters in one affects the other.
+Required: We have to explain the reasoning behind our design choices. For example, why did we use bar charts and line charts?
+What is the reasoning behind the layout? What about the use of colors?
 
 ### Feedback: 
 > One of the feedback I received was to format the text in the story better and change colors on the second card so that origin airport bar chart and the delays by year bar chart do not have similar colors. I also received feedback to include cancelled flights in my heat map.
+> I was given feedback to create a colorblind friendly story, and avoid the combination of red and green colors, so I switched to a colorblind pallete of colors available in Tableau.
+Required: Two versions of the story are included, but we also have to explain the changes. How was the story improved after receiving feedback?
 
 ### Resources: 
 > https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time
