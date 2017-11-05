@@ -1,9 +1,9 @@
-# Tableau-Flight-Delay-Viz
+# Flight Delay Visualization using Tableau
 ### Dataset: 
-> The Data has been downloaded from https://www.transtats.bts.gov/ for the last 5 years- 2013 to 2017. Then I performed a union on the individual year's data. Since the complete dataset is over 725 MB, I uploaded zipped csv files for individual years.
+> The Data has been downloaded from https://www.transtats.bts.gov/ for the last 5 years- 2013 to 2017. Then I performed a union on the individual year's data. Since the complete dataset is over 725 MB, I uploaded zipped csv files for individual years: 2013_1.csv.zip, 2014_1.csv.zip, 2015_1.csv.zip, 2016_1.csv.zip and 2017_1.csv.zip.
 
 ### Summary: 
-> in no more than 4 sentences, briefly introduce your data visualization and add any context that can help readers understand it
+> In this project, I have included visualizations to explore various flight delays over last five years. in no more than 4 sentences, briefly introduce your data visualization and add any context that can help readers understand it
 
 ### Design: 
 > explain any design choices you made including changes to the visualization after collecting feedback
